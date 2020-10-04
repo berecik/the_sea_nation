@@ -11,3 +11,4 @@ celerybeat-schedule
 /latest.dump
 /*.csv
 .*_cache/
+/the_sea_nation/media/
