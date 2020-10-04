@@ -152,6 +152,6 @@ cython_debug/
 /latest.dump
 /*.csv
 .*_cache/
-the_sea_nations/media/
+the_sea_nations/media/[^_]*
 
 
