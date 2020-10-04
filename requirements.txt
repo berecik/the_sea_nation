@@ -1,0 +1,17 @@
+# Django CMS
+django-cms
+
+# File and image management
+django-filer
+
+djangocms-text-ckeditor
+
+djangocms-link
+djangocms-file
+djangocms-picture
+djangocms-video
+djangocms-googlemap
+djangocms-snippet
+djangocms-style
+djangocms-column
+# djangocms-background-media
