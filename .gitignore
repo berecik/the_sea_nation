@@ -1,0 +1,13 @@
+/.idea/
+/.env
+/.*.env
+/output/[^_]*
+__pycache__/
+*.ipynb
+.ipynb_checkpoints/
+/done
+celerybeat-schedule
+/celerybeat.pid
+/latest.dump
+/*.csv
+.*_cache/
